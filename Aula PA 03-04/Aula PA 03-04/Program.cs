@@ -10,7 +10,10 @@ namespace Aula_PA_03_04
     {
         static void Main(string[] args)
         {
-            ItemHandler Handler = Process;
+            ItemHandler Handler = delegate(int n) 
+            {
+                return n + 1;
+            };
 
             List<int> l = BuildList(1, 100, Handler);
             foreach (int i in l)
@@ -20,11 +23,13 @@ namespace Aula_PA_03_04
             Console.ReadKey();
         }
 
-        static int Process(int n)
-        {
-            return n + 1;
 
-        }
+
+       // static int Process(int n)
+        //{
+          //  return n + 1;
+
+        //}
 
         //Metodo para retornar uma lista de Numeros Inteiros
         static List<int> BuildList(int start, int end, ItemHandler Handler)
