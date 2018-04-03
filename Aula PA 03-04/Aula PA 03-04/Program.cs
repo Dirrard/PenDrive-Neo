@@ -10,13 +10,22 @@ namespace Aula_PA_03_04
     {
         static void Main(string[] args)
         {
+            ItemHandler Handler = Process;
+
             List<int> l = BuildList(1, 100, Handler);
             foreach (int i in l)
             {
-                Console.WriteLine(l);
+                Console.WriteLine(i);
             }
             Console.ReadKey();
         }
+
+        static int Process(int n)
+        {
+            return n + 1;
+
+        }
+
         //Metodo para retornar uma lista de Numeros Inteiros
         static List<int> BuildList(int start, int end, ItemHandler Handler)
         {
