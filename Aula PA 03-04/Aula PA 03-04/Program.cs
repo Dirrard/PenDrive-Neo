@@ -10,12 +10,12 @@ namespace Aula_PA_03_04
     {
         static void Main(string[] args)
         {
-            ItemHandler Handler = delegate(int n) 
-            {
-                return n + 1;
-            };
+           // ItemHandler Handler = delegate(int n) 
+            //{
+              //  return n + 1;
+            //};
 
-            List<int> l = BuildList(1, 100, Handler);
+            List<int> l = BuildList(1, 100, x => x + 1);
             foreach (int i in l)
             {
                 Console.WriteLine(i);
