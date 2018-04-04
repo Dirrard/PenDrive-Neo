@@ -23,8 +23,6 @@ namespace Aula_PA_03_04
             Console.ReadKey();
         }
 
-
-
        // static int Process(int n)
         //{
           //  return n + 1;
