@@ -1,0 +1,92 @@
+c:\users\andradeti\documents\visual studio 2015\Projects\AulaWebForms\AulaWebForms\bin\roslyn\csc.exe
+c:\users\andradeti\documents\visual studio 2015\Projects\AulaWebForms\AulaWebForms\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\andradeti\documents\visual studio 2015\Projects\AulaWebForms\AulaWebForms\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\andradeti\documents\visual studio 2015\Projects\AulaWebForms\AulaWebForms\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\andradeti\documents\visual studio 2015\Projects\AulaWebForms\AulaWebForms\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\andradeti\documents\visual studio 2015\Projects\AulaWebForms\AulaWebForms\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\andradeti\documents\visual studio 2015\Projects\AulaWebForms\AulaWebForms\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\andradeti\documents\visual studio 2015\Projects\AulaWebForms\AulaWebForms\bin\roslyn\System.Collections.Immutable.dll
+c:\users\andradeti\documents\visual studio 2015\Projects\AulaWebForms\AulaWebForms\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\andradeti\documents\visual studio 2015\Projects\AulaWebForms\AulaWebForms\bin\roslyn\vbc.exe
+c:\users\andradeti\documents\visual studio 2015\Projects\AulaWebForms\AulaWebForms\bin\roslyn\VBCSCompiler.exe
+c:\users\andradeti\documents\visual studio 2015\Projects\AulaWebForms\AulaWebForms\bin\roslyn\VBCSCompiler.exe.config
+c:\users\andradeti\documents\visual studio 2015\Projects\AulaWebForms\AulaWebForms\bin\AulaWebForms.dll.config
+c:\users\andradeti\documents\visual studio 2015\Projects\AulaWebForms\AulaWebForms\bin\AulaWebForms.dll
+c:\users\andradeti\documents\visual studio 2015\Projects\AulaWebForms\AulaWebForms\bin\AulaWebForms.pdb
+c:\users\andradeti\documents\visual studio 2015\Projects\AulaWebForms\AulaWebForms\bin\Antlr3.Runtime.dll
+c:\users\andradeti\documents\visual studio 2015\Projects\AulaWebForms\AulaWebForms\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\andradeti\documents\visual studio 2015\Projects\AulaWebForms\AulaWebForms\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\andradeti\documents\visual studio 2015\Projects\AulaWebForms\AulaWebForms\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\andradeti\documents\visual studio 2015\Projects\AulaWebForms\AulaWebForms\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\andradeti\documents\visual studio 2015\Projects\AulaWebForms\AulaWebForms\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\andradeti\documents\visual studio 2015\Projects\AulaWebForms\AulaWebForms\bin\Microsoft.AI.Web.dll
+c:\users\andradeti\documents\visual studio 2015\Projects\AulaWebForms\AulaWebForms\bin\Microsoft.AI.WindowsServer.dll
+c:\users\andradeti\documents\visual studio 2015\Projects\AulaWebForms\AulaWebForms\bin\Microsoft.ApplicationInsights.dll
+c:\users\andradeti\documents\visual studio 2015\Projects\AulaWebForms\AulaWebForms\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\andradeti\documents\visual studio 2015\Projects\AulaWebForms\AulaWebForms\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\andradeti\documents\visual studio 2015\Projects\AulaWebForms\AulaWebForms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\andradeti\documents\visual studio 2015\Projects\AulaWebForms\AulaWebForms\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\andradeti\documents\visual studio 2015\Projects\AulaWebForms\AulaWebForms\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\andradeti\documents\visual studio 2015\Projects\AulaWebForms\AulaWebForms\bin\Microsoft.Web.Infrastructure.dll
+c:\users\andradeti\documents\visual studio 2015\Projects\AulaWebForms\AulaWebForms\bin\Newtonsoft.Json.dll
+c:\users\andradeti\documents\visual studio 2015\Projects\AulaWebForms\AulaWebForms\bin\System.Web.Optimization.dll
+c:\users\andradeti\documents\visual studio 2015\Projects\AulaWebForms\AulaWebForms\bin\WebGrease.dll
+c:\users\andradeti\documents\visual studio 2015\Projects\AulaWebForms\AulaWebForms\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\andradeti\documents\visual studio 2015\Projects\AulaWebForms\AulaWebForms\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\andradeti\documents\visual studio 2015\Projects\AulaWebForms\AulaWebForms\bin\Microsoft.AI.Web.xml
+c:\users\andradeti\documents\visual studio 2015\Projects\AulaWebForms\AulaWebForms\bin\Microsoft.AI.WindowsServer.xml
+c:\users\andradeti\documents\visual studio 2015\Projects\AulaWebForms\AulaWebForms\bin\Microsoft.ApplicationInsights.xml
+c:\users\andradeti\documents\visual studio 2015\Projects\AulaWebForms\AulaWebForms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\andradeti\documents\visual studio 2015\Projects\AulaWebForms\AulaWebForms\bin\System.Web.Optimization.xml
+c:\users\andradeti\documents\visual studio 2015\Projects\AulaWebForms\AulaWebForms\bin\Antlr3.Runtime.pdb
+c:\users\andradeti\documents\visual studio 2015\Projects\AulaWebForms\AulaWebForms\bin\Newtonsoft.Json.xml
+c:\users\andradeti\documents\visual studio 2015\Projects\AulaWebForms\AulaWebForms\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\andradeti\documents\visual studio 2015\Projects\AulaWebForms\AulaWebForms\obj\Debug\AulaWebForms.csprojResolveAssemblyReference.cache
+c:\users\andradeti\documents\visual studio 2015\Projects\AulaWebForms\AulaWebForms\obj\Debug\AulaWebForms.dll
+c:\users\andradeti\documents\visual studio 2015\Projects\AulaWebForms\AulaWebForms\obj\Debug\AulaWebForms.pdb
+C:\Users\andradeti\Documents\KingHost\senai\Aula 14\AulaWebForms\AulaWebForms\bin\roslyn\csc.exe
+C:\Users\andradeti\Documents\KingHost\senai\Aula 14\AulaWebForms\AulaWebForms\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\andradeti\Documents\KingHost\senai\Aula 14\AulaWebForms\AulaWebForms\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\andradeti\Documents\KingHost\senai\Aula 14\AulaWebForms\AulaWebForms\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\andradeti\Documents\KingHost\senai\Aula 14\AulaWebForms\AulaWebForms\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\andradeti\Documents\KingHost\senai\Aula 14\AulaWebForms\AulaWebForms\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\andradeti\Documents\KingHost\senai\Aula 14\AulaWebForms\AulaWebForms\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\andradeti\Documents\KingHost\senai\Aula 14\AulaWebForms\AulaWebForms\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\andradeti\Documents\KingHost\senai\Aula 14\AulaWebForms\AulaWebForms\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\andradeti\Documents\KingHost\senai\Aula 14\AulaWebForms\AulaWebForms\bin\roslyn\vbc.exe
+C:\Users\andradeti\Documents\KingHost\senai\Aula 14\AulaWebForms\AulaWebForms\bin\roslyn\VBCSCompiler.exe
+C:\Users\andradeti\Documents\KingHost\senai\Aula 14\AulaWebForms\AulaWebForms\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\andradeti\Documents\KingHost\senai\Aula 14\AulaWebForms\AulaWebForms\bin\AulaWebForms.dll.config
+C:\Users\andradeti\Documents\KingHost\senai\Aula 14\AulaWebForms\AulaWebForms\bin\AulaWebForms.dll
+C:\Users\andradeti\Documents\KingHost\senai\Aula 14\AulaWebForms\AulaWebForms\bin\AulaWebForms.pdb
+C:\Users\andradeti\Documents\KingHost\senai\Aula 14\AulaWebForms\AulaWebForms\bin\Antlr3.Runtime.dll
+C:\Users\andradeti\Documents\KingHost\senai\Aula 14\AulaWebForms\AulaWebForms\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\andradeti\Documents\KingHost\senai\Aula 14\AulaWebForms\AulaWebForms\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\andradeti\Documents\KingHost\senai\Aula 14\AulaWebForms\AulaWebForms\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\andradeti\Documents\KingHost\senai\Aula 14\AulaWebForms\AulaWebForms\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\andradeti\Documents\KingHost\senai\Aula 14\AulaWebForms\AulaWebForms\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\andradeti\Documents\KingHost\senai\Aula 14\AulaWebForms\AulaWebForms\bin\Microsoft.AI.Web.dll
+C:\Users\andradeti\Documents\KingHost\senai\Aula 14\AulaWebForms\AulaWebForms\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\andradeti\Documents\KingHost\senai\Aula 14\AulaWebForms\AulaWebForms\bin\Microsoft.ApplicationInsights.dll
+C:\Users\andradeti\Documents\KingHost\senai\Aula 14\AulaWebForms\AulaWebForms\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\andradeti\Documents\KingHost\senai\Aula 14\AulaWebForms\AulaWebForms\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\andradeti\Documents\KingHost\senai\Aula 14\AulaWebForms\AulaWebForms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\andradeti\Documents\KingHost\senai\Aula 14\AulaWebForms\AulaWebForms\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\andradeti\Documents\KingHost\senai\Aula 14\AulaWebForms\AulaWebForms\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\andradeti\Documents\KingHost\senai\Aula 14\AulaWebForms\AulaWebForms\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\andradeti\Documents\KingHost\senai\Aula 14\AulaWebForms\AulaWebForms\bin\Newtonsoft.Json.dll
+C:\Users\andradeti\Documents\KingHost\senai\Aula 14\AulaWebForms\AulaWebForms\bin\System.Web.Optimization.dll
+C:\Users\andradeti\Documents\KingHost\senai\Aula 14\AulaWebForms\AulaWebForms\bin\WebGrease.dll
+C:\Users\andradeti\Documents\KingHost\senai\Aula 14\AulaWebForms\AulaWebForms\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\andradeti\Documents\KingHost\senai\Aula 14\AulaWebForms\AulaWebForms\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\andradeti\Documents\KingHost\senai\Aula 14\AulaWebForms\AulaWebForms\bin\Microsoft.AI.Web.xml
+C:\Users\andradeti\Documents\KingHost\senai\Aula 14\AulaWebForms\AulaWebForms\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\andradeti\Documents\KingHost\senai\Aula 14\AulaWebForms\AulaWebForms\bin\Microsoft.ApplicationInsights.xml
+C:\Users\andradeti\Documents\KingHost\senai\Aula 14\AulaWebForms\AulaWebForms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\andradeti\Documents\KingHost\senai\Aula 14\AulaWebForms\AulaWebForms\bin\System.Web.Optimization.xml
+C:\Users\andradeti\Documents\KingHost\senai\Aula 14\AulaWebForms\AulaWebForms\bin\Antlr3.Runtime.pdb
+C:\Users\andradeti\Documents\KingHost\senai\Aula 14\AulaWebForms\AulaWebForms\bin\Newtonsoft.Json.xml
+C:\Users\andradeti\Documents\KingHost\senai\Aula 14\AulaWebForms\AulaWebForms\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\andradeti\Documents\KingHost\senai\Aula 14\AulaWebForms\AulaWebForms\obj\Debug\AulaWebForms.dll
+C:\Users\andradeti\Documents\KingHost\senai\Aula 14\AulaWebForms\AulaWebForms\obj\Debug\AulaWebForms.pdb
+C:\Users\andradeti\Documents\KingHost\senai\Aula 14\AulaWebForms\AulaWebForms\obj\Debug\AulaWebForms.csprojResolveAssemblyReference.cache

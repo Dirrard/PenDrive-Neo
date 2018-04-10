@@ -1,0 +1,5 @@
+E:\MLM\MLM\MLM.Models\bin\Debug\MLM.Models.dll
+E:\MLM\MLM\MLM.Models\bin\Debug\MLM.Models.pdb
+E:\MLM\MLM\MLM.Models\obj\Debug\MLM.Models.csprojResolveAssemblyReference.cache
+E:\MLM\MLM\MLM.Models\obj\Debug\MLM.Models.dll
+E:\MLM\MLM\MLM.Models\obj\Debug\MLM.Models.pdb

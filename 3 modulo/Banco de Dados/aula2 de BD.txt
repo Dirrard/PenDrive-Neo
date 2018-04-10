@@ -1,0 +1,30 @@
+
+Aula 02 de Banco de Dados
+
+ACID é um negocio de processos que controlão as transações em um banco de dados
+e é dividida em 4 coisas 
+A= atomicidade quarante que a trasação de certo ou não 8 ou 80
+C=Consistencia Ao final de uma trasação o bd continua a consistente.
+i=Isolamento ele não poderar alterar dados sozinho
+D=Durabilidade ele garante a persistencia do dado no bd.
+
+concorrencia de bd é quando um db tem usuarios distintos tetam acessar a mesma 
+informação e então é feito um controle entre essas transações. 
+
+
+RAM mais em espera
+nucleo mais em processo
+exemplo o caixa de um banco que so tem tres atendentes se estiver mais de tres 
+pessoas as outra pessoas teram que esperar para a finalização dos atendimentos.
+
+transação é um conjunto de ações(processos) num sistema
+
+As duas ações em um bd?
+serião ler e escrever que serião para a consulta 
+e commit e rowback que serião quando a consulta não da certo.
+
+Deadlock, no contexto de sistemas operacionais, refere-se a uma situação em que ocorre um impasse, e dois ou mais processos 
+ficam impedidos de continuar suas execuções - ou seja, ficam bloqueados, esperando uns pelos outros. 
+Existem inúmeros recursos nos sistemas de computadores que se adéquam ao uso de somente um 
+processo a cada vez, como, por exemplo, impressoras, unidades de fita e entradas nas tabelas internas do sistema. 
+Caso dois ou mais processos quiserem escrever simultaneamente na mesma impressora, haverá um impasse.

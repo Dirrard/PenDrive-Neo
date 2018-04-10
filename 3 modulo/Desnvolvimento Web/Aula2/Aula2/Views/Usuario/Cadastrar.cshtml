@@ -1,0 +1,36 @@
+﻿@using Aula2.Models
+@model Usuario
+<div class="row">
+    <div class="col-md-12">
+        <h3>Cadastro de Usuário</h3>
+        <hr />
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-12">
+        <form action="@Url.Action("Salvar", "Usuario")" class="form-horizontal">
+            <div class="form-group">
+                <div class="col-md-12">
+                    @Html.LabelFor(m => m.Nome, "Nome:", new { @class = "control-label" })
+                    @Html.TextBoxFor(m => m.Nome, new { @class = "form-control" })
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="col-md-8">
+                    @Html.LabelFor(m => m.Endereco, "Endereço:", new { @class = "control-label" })
+                    @Html.TextBoxFor(m => m.Endereco, new { @class = "form-control" })
+                </div>
+                <div class="col-md-4">
+                    @Html.LabelFor(m => m.Telefone, "Telefone:", new { @class = "control-label" })
+                    @Html.TextBoxFor(m => m.Telefone, new { @class = "form-control" })
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="col-md-12 text-right">
+                    <button type="submit" class="btn btn-primary">Salvar</button>
+                    <button type="button" class="btn btn-primary">Cancelar</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>

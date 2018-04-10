@@ -1,0 +1,36 @@
+﻿@using Aula2.Models
+<div class="row">
+    <div class="col-md-12">
+        <a href="@Url.Action("Cadastrar","Usuario")" class="btn btn-primary">Novo Usuário</a>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-12">
+        <div class="table-responsive">
+            <table class="table table-hover">
+                <thead>
+                    <tr>
+                        <th>Nome</th>
+                        <th>Endereço</th>
+                        <th>Telefone</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (Usuario item in Model)
+                    {
+                        <tr>
+                            <td>@item.Nome</td>
+                            <td>@item.Endereco</td>
+                            <td>@item.Telefone</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+
+
+
+

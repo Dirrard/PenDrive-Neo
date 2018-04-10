@@ -1,0 +1,7 @@
+E:\3 modulo\Desnvolvimento Web\DropDownListMVC\DropDownListMVC.DataAccess\bin\Debug\DropDownListMVC.DataAccess.dll
+E:\3 modulo\Desnvolvimento Web\DropDownListMVC\DropDownListMVC.DataAccess\bin\Debug\DropDownListMVC.DataAccess.pdb
+E:\3 modulo\Desnvolvimento Web\DropDownListMVC\DropDownListMVC.DataAccess\bin\Debug\DropDownListMVC.Models.dll
+E:\3 modulo\Desnvolvimento Web\DropDownListMVC\DropDownListMVC.DataAccess\bin\Debug\DropDownListMVC.Models.pdb
+E:\3 modulo\Desnvolvimento Web\DropDownListMVC\DropDownListMVC.DataAccess\obj\Debug\DropDownListMVC.DataAccess.csprojResolveAssemblyReference.cache
+E:\3 modulo\Desnvolvimento Web\DropDownListMVC\DropDownListMVC.DataAccess\obj\Debug\DropDownListMVC.DataAccess.dll
+E:\3 modulo\Desnvolvimento Web\DropDownListMVC\DropDownListMVC.DataAccess\obj\Debug\DropDownListMVC.DataAccess.pdb

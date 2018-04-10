@@ -1,0 +1,7 @@
+E:\3 modulo\AulaMVC03\AulaMVC03.DataAccess\obj\Debug\AulaMVC03.DataAccess.csprojResolveAssemblyReference.cache
+E:\3 modulo\AulaMVC03\AulaMVC03.DataAccess\bin\Debug\AulaMVC03.DataAccess.dll
+E:\3 modulo\AulaMVC03\AulaMVC03.DataAccess\bin\Debug\AulaMVC03.DataAccess.pdb
+E:\3 modulo\AulaMVC03\AulaMVC03.DataAccess\bin\Debug\AulaMVC03.Models.dll
+E:\3 modulo\AulaMVC03\AulaMVC03.DataAccess\bin\Debug\AulaMVC03.Models.pdb
+E:\3 modulo\AulaMVC03\AulaMVC03.DataAccess\obj\Debug\AulaMVC03.DataAccess.dll
+E:\3 modulo\AulaMVC03\AulaMVC03.DataAccess\obj\Debug\AulaMVC03.DataAccess.pdb

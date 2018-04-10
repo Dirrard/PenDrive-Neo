@@ -1,0 +1,14 @@
+E:\MLM\MLM\MLM.DataAccess\bin\Debug\MLM.DataAccess.dll
+E:\MLM\MLM\MLM.DataAccess\bin\Debug\MLM.DataAccess.pdb
+E:\MLM\MLM\MLM.DataAccess\bin\Debug\MLM.Models.dll
+E:\MLM\MLM\MLM.DataAccess\bin\Debug\MLM.Models.pdb
+E:\MLM\MLM\MLM.DataAccess\obj\Debug\MLM.DataAccess.csprojResolveAssemblyReference.cache
+E:\MLM\MLM\MLM.DataAccess\obj\Debug\MLM.DataAccess.dll
+E:\MLM\MLM\MLM.DataAccess\obj\Debug\MLM.DataAccess.pdb
+C:\Users\Aluno\Desktop\MLM\MLM\MLM.DataAccess\bin\Debug\MLM.DataAccess.dll
+C:\Users\Aluno\Desktop\MLM\MLM\MLM.DataAccess\bin\Debug\MLM.DataAccess.pdb
+C:\Users\Aluno\Desktop\MLM\MLM\MLM.DataAccess\bin\Debug\MLM.Models.dll
+C:\Users\Aluno\Desktop\MLM\MLM\MLM.DataAccess\bin\Debug\MLM.Models.pdb
+C:\Users\Aluno\Desktop\MLM\MLM\MLM.DataAccess\obj\Debug\MLM.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\MLM\MLM\MLM.DataAccess\obj\Debug\MLM.DataAccess.dll
+C:\Users\Aluno\Desktop\MLM\MLM\MLM.DataAccess\obj\Debug\MLM.DataAccess.pdb

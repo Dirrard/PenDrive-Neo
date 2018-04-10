@@ -1,0 +1,35 @@
+﻿@using AulaMVC03.Models
+<div class="row">
+    <div class="col-md-12">
+        <a href="@Url.Action("Cadastro","Contato")" class="btn btn-primary">Novo Contato</a>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-12">
+        <div class="col-md-12">
+            <div class="table table-responsive">
+                <table class="table table-hover">
+                    <thead>
+                        <tr>
+                            <th>Nome</th>
+                            <th>Endereco</th>
+                            <th>Telefone</th>
+                            <th>Mensagem</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (Contato item in Model)
+                        {
+                            <tr>
+                                <td>@item.Nome</td>
+                                <td>@item.Endereco</td>
+                                <td>@item.Telefone</td>
+                                <td>@item.Mensagem</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

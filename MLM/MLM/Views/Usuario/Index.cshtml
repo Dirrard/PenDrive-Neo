@@ -1,0 +1,35 @@
+﻿@using MLM.Models
+
+<div class="row">
+    <div class="col-md-12">
+        <div class="table-responsive">
+            <br />
+            <table class="table table-hover">
+                <thead>
+                    <tr>
+                        <th>Nome</th>
+                        <th>Valor</th>
+                        <th>Modelo</th>
+                        <th>Motor</th>
+                        <th>Interior</th>
+                        <th>Cor</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (Usuario item in Model)
+                    {
+                        <tr>
+                            <td>@item.Nome</td>
+                            <td>@item.Valor</td>
+                            <td>@item.Modelo.Nome</td>
+                            <td>@item.Motor.Nome</td>
+                            <td>@item.Interior.Nome</td>
+                            <td>@item.Cor.Nome</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+

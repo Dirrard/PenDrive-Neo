@@ -1,0 +1,29 @@
+﻿@using DropDownListMVC.Models
+<div class="row">
+    <div class="col-md-12">
+        <br />
+        <a href="@Url.Action("Cadastro,Cidade")" class="btn btn-primary">Nova Cidade</a>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-12">
+        <div class="table-responsive">
+            <br />
+            <table class="table table-hover">
+                <thead>
+                    <tr>
+                        <th>Nome</th>
+                        <th>Estado</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (Cidade item in Model)
+                    {
+                        <tr>@item.Nome</tr>
+                        <tr>@item.Estado.Nome</tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

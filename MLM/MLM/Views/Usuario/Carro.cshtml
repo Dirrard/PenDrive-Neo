@@ -1,0 +1,51 @@
+﻿@using MLM.Models;
+@model Usuario
+<div class="row">
+    <div class="col-md-12">
+        <h3>Carro</h3>
+        <hr />
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-12">
+        <form action="@Url.Action("Carro_Salvar")" class="form-horizontal">
+            <div class="form-group">
+                <div class="col-md-8">
+                    @Html.LabelFor(m => m.Cor, "Cor:", new { @class = "control_label" })
+                    @Html.DropDownListFor(m => m.Cor.Id, new SelectList(ViewBag.Cor, "Id", "Nome"), "-- [Selecione] --", new { @class = "form-control" })
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="col-md-8">
+                    <div class="col-md-8">
+                        @Html.LabelFor(m => m.Interior, "Interior:", new { @class = "control_label" })
+                        @Html.DropDownListFor(m => m.Interior.Id, new SelectList(ViewBag.Interior, "Id", "Nome"), "-- [Selecione] --", new { @class = "form-control" })
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="col-md-8">
+                    <div class="col-md-8">
+                        @Html.LabelFor(m => m.Motor, "Motor:", new { @class = "control_label" })
+                        @Html.DropDownListFor(m => m.Motor.Id, new SelectList(ViewBag.Motor, "Id", "Nome"), "-- [Selecione] --", new { @class = "form-control" })
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="col-md-12">
+                    @Html.LabelFor(m => m.Modelo, "Modelo", new { @class = "control_label" })
+                    @Html.DropDownListFor( m => m.Modelo.Id, new SelectList(ViewBag.Modelo, "Id", "Nome"), "-- [Selecione] --", new { @class = "form-control" })
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="col-md-12 text-right">
+                    <button type="submit" class="btn btn-primary">Salvar</button>
+                    <button type="button" class="btn btn-default">Cancelar</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
