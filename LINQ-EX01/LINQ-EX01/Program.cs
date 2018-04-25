@@ -10,7 +10,15 @@ namespace LINQ_EX01
     {
         static void Main(string[] args)
         {
+            List<Aluno> alunos =  CriarAlunos();
+            var q = from a in alunos where a.Nota < 8 && a.Nome.StartsWith("J") select  a.Nome;
 
+            foreach (var i in q)
+            {
+                Console.WriteLine("\n\t"+i);
+            
+            }
+            Console.ReadKey();
         }
 
         static List<Aluno> CriarAlunos()
