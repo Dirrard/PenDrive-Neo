@@ -17,7 +17,7 @@ namespace LINQ_EX01
             {
                 Console.WriteLine("\n\t"+i);
             
-            }
+            } 
             Console.ReadKey();
         }
 
@@ -39,10 +39,56 @@ namespace LINQ_EX01
     {
         public string Nome { get; set; }
         public double Nota { get; set; }
+        public Turma Turma { get; set; }
+        public List<AtividadeExtra> Atividades { get; set; }
+
+        public Aluno(params AtividadeExtra[] atividades)
+        {
+            Atividades = atividades.ToList();
+        }
 
         public override string ToString()
         {
-            return Nome + " -> " + Nota;
+            string a = "";
+            Atividades.ForEach(atividade => a += atividade.Nome + "");
+            return String.Format("{0}->{1} ({2}) -> {3}",Nome,Nota,Turma,a);
+        }
+    }
+
+    class Turma
+    {
+      
+        public int Serie { get; set; }
+        public char Letra { get; set; }
+
+        public override string ToString()
+        {
+            return "" + Serie + Letra;
+        }
+
+    }
+
+    class AtividadeExtra
+    {
+        public string Nome { get; set; }
+
+        public override string ToString()
+        {
+            return Nome ;
+        }
+    }
+
+    class Familia
+    {
+        public string Pai { get; set; }
+    
+        public string Mae { get; set; }
+
+        public string Filho { get; set; }
+
+        public override string ToString()
+        {
+            return string.Format("{0}/ {1}: {2}");
         }
     }
 }
