@@ -27,9 +27,9 @@ namespace LINQ_EX01
             Turma t1 = new Turma() {Serie = 2 , Letra ='B'  };
             Turma t2 = new Turma() { Serie = 3, Letra = 'A' };
 
-            AtividadeExtra a1 = new AtividadeExtra() { Nome = "Judô" };
-            AtividadeExtra a2 = new AtividadeExtra() { Nome = "Balé" };
-            AtividadeExtra a3 = new AtividadeExtra() { Nome = "Xadrez" };
+            AtividadeExtra a1 = new AtividadeExtra() { Nome = " Judô" };
+            AtividadeExtra a2 = new AtividadeExtra() { Nome = " Balé"  };
+            AtividadeExtra a3 = new AtividadeExtra() { Nome = " Xadrez" };
 
             List<Aluno> alunos = new List<Aluno>();
             alunos.Add(new Aluno(a1) { Nome = "Luis", Nota = 8.5 , Turma=t1});
@@ -76,7 +76,7 @@ namespace LINQ_EX01
         {
             string a = "";
             Atividades.ForEach(atividade => a += atividade.Nome + "");
-            return String.Format("{0}->{1} ({2}) -> {3}",Nome,Nota,Turma,a);
+            return String.Format("{0} -> {1} ({2}) -> {3}",Nome,Nota,Turma,a);
         }
     }
 
