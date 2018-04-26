@@ -11,8 +11,8 @@ namespace LINQ_EX01
         static void Main(string[] args)
         {
             List<Aluno> alunos =  CriarAlunos();
-            List<Familia> familia;
-            var q = from a in alunos where a.Nota < 8 && a.Nome.StartsWith("J") select  a.Nome;
+            List<Familia> familia = CriarFamilias();
+            var q = from a in alunos where a.Turma.Serie == 3 && a.Turma.Letra=='A' orderby a.Nota descending select a ;
 
             foreach (var i in q)
             {
@@ -24,18 +24,25 @@ namespace LINQ_EX01
 
         static List<Aluno> CriarAlunos()
         {
+            Turma t1 = new Turma() {Serie = 2 , Letra ='B'  };
+            Turma t2 = new Turma() { Serie = 3, Letra = 'A' };
+
+            AtividadeExtra a1 = new AtividadeExtra() { Nome = "Judô" };
+            AtividadeExtra a2 = new AtividadeExtra() { Nome = "Balé" };
+            AtividadeExtra a3 = new AtividadeExtra() { Nome = "Xadrez" };
+
             List<Aluno> alunos = new List<Aluno>();
-            alunos.Add(new Aluno() { Nome = "Luis", Nota = 8.5 });
-            alunos.Add(new Aluno() { Nome = "José", Nota = 7.5 });
-            alunos.Add(new Aluno() { Nome = "Maria", Nota = 8.0 });
-            alunos.Add(new Aluno() { Nome = "Ana", Nota = 3.0 });
-            alunos.Add(new Aluno() { Nome = "Carol", Nota = 4.5 });
-            alunos.Add(new Aluno() { Nome = "Vanessa", Nota = 9.5 });
+            alunos.Add(new Aluno(a1) { Nome = "Luis", Nota = 8.5 , Turma=t1});
+            alunos.Add(new Aluno(a1,a2) { Nome = "José", Nota = 7.5 , Turma = t1});
+            alunos.Add(new Aluno(a2,a3) { Nome = "Maria", Nota = 8.0 , Turma = t2});
+            alunos.Add(new Aluno(a2) { Nome = "Ana", Nota = 3.0 , Turma = t2});
+            alunos.Add(new Aluno(a2) { Nome = "Carol", Nota = 4.5 ,Turma = t2 });
+            alunos.Add(new Aluno(a3) { Nome = "Vanessa", Nota = 9.5 , Turma = t2});
 
             return alunos;
         }
 
-        static List<Familia> CriarFamilia()
+        static List<Familia> CriarFamilias()
         {
             List<Familia> familias = new List<Familia>();
             familias.Add(new Familia()
