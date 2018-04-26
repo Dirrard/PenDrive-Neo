@@ -11,6 +11,7 @@ namespace LINQ_EX01
         static void Main(string[] args)
         {
             List<Aluno> alunos =  CriarAlunos();
+            List<Familia> familia;
             var q = from a in alunos where a.Nota < 8 && a.Nome.StartsWith("J") select  a.Nome;
 
             foreach (var i in q)
@@ -32,6 +33,23 @@ namespace LINQ_EX01
             alunos.Add(new Aluno() { Nome = "Vanessa", Nota = 9.5 });
 
             return alunos;
+        }
+
+        static List<Familia> CriarFamilia()
+        {
+            List<Familia> familias = new List<Familia>();
+            familias.Add(new Familia()
+            { Filho="João",Pai="Augusto", Mae="Mariana" });
+            familias.Add(new Familia()
+            { Filho = "Pedro", Pai = "José", Mae = "Bianca" });
+            familias.Add(new Familia()
+            { Filho = "Maria", Pai = "Sérgio", Mae = "Rita" });
+            familias.Add(new Familia()
+            { Filho = "Joana", Pai = "Joaquim", Mae = "Rose" });
+            familias.Add(new Familia()
+            { Filho = "Creisso", Pai = "Soares", Mae = "Cleide" });
+
+            return familias;
         }
     }
 
