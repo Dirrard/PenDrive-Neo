@@ -11,6 +11,23 @@ namespace Criar_XML
         static void Main(string[] args)
         {
         }
+        public static Funcionario CriarFuncionario()
+        {
+            Funcionario f = new Funcionario();
+            f.Id = 1;
+            f.Nome ="José";
+            f.TelefoneCelular = "9999-8888";
+            f.TelefoneResidencial = "3332-3838";
+
+            Endereco e = new Endereco();
+            e.Rua = "Emilio de Menezes";
+            e.Numero = 180;
+            e.Cidade = "Curitiba";
+            e.Estado = "PR";
+            f.Endereco = e;
+            return f;
+
+        }
     }
 
     class Funcionario
