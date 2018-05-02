@@ -12,18 +12,19 @@ namespace Criar_XML
         {
 
             Funcionario f = CriarFuncionario();
-            XElement xml = new XElement("Funcionario",
+            XElement xml = 
+                new XElement("Funcionario",
                 new XElement("id", f.Id),
                 new XElement("Nome", f.Nome),
                 new XElement("Telefone",
                 new XAttribute("Tipo", "Residencial"), f.TelefoneResidencial),
-                new XElement("Telefone", 
+                new XElement("Telefone",
                 new XAttribute("Tipo", "Celular"), f.TelefoneCelular),
-                new XElement("Endereco", 
-                new XElement("Rua", f.Endereco.Rua),
-                new XElement("Numero", f.Endereco.Numero),
-                new XElement("Cidade", f.Endereco.Cidade),
-                new XElement("Estado", f.Endereco.Estado)));
+                new XElement("Endereco",
+                   new XElement("Rua", f.Endereco.Rua),
+                   new XElement("Numero", f.Endereco.Numero),
+                   new XElement("Cidade", f.Endereco.Cidade),
+                   new XElement("Estado", f.Endereco.Estado)));
 
             Console.WriteLine(xml);
             Console.ReadKey();
@@ -32,7 +33,7 @@ namespace Criar_XML
         {
             Funcionario f = new Funcionario();
             f.Id = 1;
-            f.Nome ="José";
+            f.Nome = "José da Silva";
             f.TelefoneCelular = "9999-8888";
             f.TelefoneResidencial = "3332-3838";
 
