@@ -1,1 +1,6 @@
 C:\Users\Aluno\Documents\GitHub\PenDrive-Neo\3 modulo\Criar XML\Criar XML\bin\Debug\Criar XML.exe.config
+C:\Users\Aluno\Documents\GitHub\PenDrive-Neo\3 modulo\Criar XML\Criar XML\bin\Debug\Criar XML.exe
+C:\Users\Aluno\Documents\GitHub\PenDrive-Neo\3 modulo\Criar XML\Criar XML\bin\Debug\Criar XML.pdb
+C:\Users\Aluno\Documents\GitHub\PenDrive-Neo\3 modulo\Criar XML\Criar XML\obj\Debug\Criar XML.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Documents\GitHub\PenDrive-Neo\3 modulo\Criar XML\Criar XML\obj\Debug\Criar XML.exe
+C:\Users\Aluno\Documents\GitHub\PenDrive-Neo\3 modulo\Criar XML\Criar XML\obj\Debug\Criar XML.pdb

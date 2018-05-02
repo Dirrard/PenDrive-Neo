@@ -3,13 +3,30 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+using System.Xml.Linq;
 namespace Criar_XML
 {
     class Program
     {
         static void Main(string[] args)
         {
+
+            Funcionario f = CriarFuncionario();
+            XElement xml = new XElement("Funcionario",
+                new XElement("id", f.Id),
+                new XElement("Nome", f.Nome),
+                new XElement("Telefone",
+                new XAttribute("Tipo", "Residencial"), f.TelefoneResidencial),
+                new XElement("Telefone", 
+                new XAttribute("Tipo", "Celular"), f.TelefoneCelular),
+                new XElement("Endereco", 
+                new XElement("Rua", f.Endereco.Rua),
+                new XElement("Numero", f.Endereco.Numero),
+                new XElement("Cidade", f.Endereco.Cidade),
+                new XElement("Estado", f.Endereco.Estado)));
+
+            Console.WriteLine(xml);
+            Console.ReadKey();
         }
         public static Funcionario CriarFuncionario()
         {
