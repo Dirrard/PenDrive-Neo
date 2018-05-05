@@ -1,0 +1,7 @@
+C:\Users\Aluno\Desktop\Teste\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\Teste\Test\bin\Debug\Test.dll
+C:\Users\Aluno\Desktop\Teste\Test\bin\Debug\Test.pdb
+C:\Users\Aluno\Desktop\Teste\Test\bin\Debug\Teste.exe
+C:\Users\Aluno\Desktop\Teste\Test\bin\Debug\Teste.pdb
+C:\Users\Aluno\Desktop\Teste\Test\obj\Debug\Test.dll
+C:\Users\Aluno\Desktop\Teste\Test\obj\Debug\Test.pdb
