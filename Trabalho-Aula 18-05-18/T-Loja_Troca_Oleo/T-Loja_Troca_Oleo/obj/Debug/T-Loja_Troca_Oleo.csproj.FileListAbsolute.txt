@@ -1,0 +1,16 @@
+C:\Users\Aluno\Desktop\T-Loja_Troca_Oleo\T-Loja_Troca_Oleo\bin\Debug\T-Loja_Troca_Oleo.exe.config
+C:\Users\Aluno\Desktop\T-Loja_Troca_Oleo\T-Loja_Troca_Oleo\bin\Debug\T-Loja_Troca_Oleo.exe
+C:\Users\Aluno\Desktop\T-Loja_Troca_Oleo\T-Loja_Troca_Oleo\bin\Debug\T-Loja_Troca_Oleo.pdb
+C:\Users\Aluno\Desktop\T-Loja_Troca_Oleo\T-Loja_Troca_Oleo\obj\Debug\T-Loja_Troca_Oleo.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\T-Loja_Troca_Oleo\T-Loja_Troca_Oleo\obj\Debug\T_Loja_Troca_Oleo.Form1.resources
+C:\Users\Aluno\Desktop\T-Loja_Troca_Oleo\T-Loja_Troca_Oleo\obj\Debug\T_Loja_Troca_Oleo.Properties.Resources.resources
+C:\Users\Aluno\Desktop\T-Loja_Troca_Oleo\T-Loja_Troca_Oleo\obj\Debug\T-Loja_Troca_Oleo.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\T-Loja_Troca_Oleo\T-Loja_Troca_Oleo\obj\Debug\T-Loja_Troca_Oleo.exe
+C:\Users\Aluno\Desktop\T-Loja_Troca_Oleo\T-Loja_Troca_Oleo\obj\Debug\T-Loja_Troca_Oleo.pdb
+C:\Users\Aluno\Desktop\Trabalho-Aula 18-05-18\T-Loja_Troca_Oleo\T-Loja_Troca_Oleo\bin\Debug\T-Loja_Troca_Oleo.exe.config
+C:\Users\Aluno\Desktop\Trabalho-Aula 18-05-18\T-Loja_Troca_Oleo\T-Loja_Troca_Oleo\obj\Debug\T-Loja_Troca_Oleo.exe
+C:\Users\Aluno\Desktop\Trabalho-Aula 18-05-18\T-Loja_Troca_Oleo\T-Loja_Troca_Oleo\obj\Debug\T-Loja_Troca_Oleo.pdb
+C:\Users\Aluno\Desktop\Trabalho-Aula 18-05-18\T-Loja_Troca_Oleo\T-Loja_Troca_Oleo\obj\Debug\T-Loja_Troca_Oleo.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\Trabalho-Aula 18-05-18\T-Loja_Troca_Oleo\T-Loja_Troca_Oleo\obj\Debug\T_Loja_Troca_Oleo.Form1.resources
+C:\Users\Aluno\Desktop\Trabalho-Aula 18-05-18\T-Loja_Troca_Oleo\T-Loja_Troca_Oleo\obj\Debug\T_Loja_Troca_Oleo.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Trabalho-Aula 18-05-18\T-Loja_Troca_Oleo\T-Loja_Troca_Oleo\obj\Debug\T-Loja_Troca_Oleo.csproj.GenerateResource.Cache

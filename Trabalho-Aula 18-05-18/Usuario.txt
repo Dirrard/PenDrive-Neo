@@ -1,0 +1,6 @@
+10;admin@sisti.com;adim
+11;mobil@newil.br;mobil
+12;carlos.pessoa@newoil;carlos123
+13;ana.silva@gmail.com;ana2015
+14;marcos.teodoro@newoil.br;brpr1230
+15;rodrigo.seixa@gmail.com;rbt1050
