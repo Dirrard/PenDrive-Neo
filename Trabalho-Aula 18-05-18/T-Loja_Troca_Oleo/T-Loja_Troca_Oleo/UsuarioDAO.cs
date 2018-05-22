@@ -12,10 +12,9 @@ namespace T_Loja_Troca_Oleo
     {
         public static Usuario Logar(Usuario obj)
         {
-            using (SqlConnection conn = new SqlConnection (Properties.Settings.Default.conn)
+            using (SqlConnection conn = new SqlConnection(@"Data Source = localhost; Initial Catalog = newoli; Integrated Security = True")
             {
-                string srtSQL = @"Select * from Usuario  where Email = @email or Senha = @Senha";
-
+                string srtSQL = "Select * from Usuario  where Email = @email or Senha = @Senha";
                 DataTable dt = new DataTable();
                 conn.Open();
                 using (SqlCommand cmdo = new SqlCommand())

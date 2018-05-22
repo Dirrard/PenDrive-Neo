@@ -38,10 +38,10 @@
             // 
             // btnEntrar
             // 
-            this.btnEntrar.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnEntrar.Location = new System.Drawing.Point(348, 206);
+            this.btnEntrar.Font = new System.Drawing.Font("Modern No. 20", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnEntrar.Location = new System.Drawing.Point(225, 236);
             this.btnEntrar.Name = "btnEntrar";
-            this.btnEntrar.Size = new System.Drawing.Size(75, 36);
+            this.btnEntrar.Size = new System.Drawing.Size(107, 59);
             this.btnEntrar.TabIndex = 0;
             this.btnEntrar.Text = "Entrar";
             this.btnEntrar.UseVisualStyleBackColor = true;
@@ -53,20 +53,20 @@
             this.lblEmail.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblEmail.Location = new System.Drawing.Point(97, 82);
             this.lblEmail.Name = "lblEmail";
-            this.lblEmail.Size = new System.Drawing.Size(57, 24);
+            this.lblEmail.Size = new System.Drawing.Size(67, 24);
             this.lblEmail.TabIndex = 1;
-            this.lblEmail.Text = "Email";
+            this.lblEmail.Text = "Email :";
             this.lblEmail.Click += new System.EventHandler(this.label1_Click);
             // 
             // lblSenha
             // 
             this.lblSenha.AutoSize = true;
             this.lblSenha.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblSenha.Location = new System.Drawing.Point(97, 143);
+            this.lblSenha.Location = new System.Drawing.Point(89, 143);
             this.lblSenha.Name = "lblSenha";
-            this.lblSenha.Size = new System.Drawing.Size(65, 24);
+            this.lblSenha.Size = new System.Drawing.Size(75, 24);
             this.lblSenha.TabIndex = 2;
-            this.lblSenha.Text = "Senha";
+            this.lblSenha.Text = "Senha :";
             // 
             // txtEmail
             // 
@@ -89,11 +89,11 @@
             // 
             this.lblTela_Login.AutoSize = true;
             this.lblTela_Login.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblTela_Login.Location = new System.Drawing.Point(206, 9);
+            this.lblTela_Login.Location = new System.Drawing.Point(94, 9);
             this.lblTela_Login.Name = "lblTela_Login";
-            this.lblTela_Login.Size = new System.Drawing.Size(167, 37);
+            this.lblTela_Login.Size = new System.Drawing.Size(343, 37);
             this.lblTela_Login.TabIndex = 5;
-            this.lblTela_Login.Text = "Tela Login";
+            this.lblTela_Login.Text = "Troca de Oleos - Login";
             this.lblTela_Login.Click += new System.EventHandler(this.lblTela_Login_Click);
             // 
             // Form1
@@ -110,6 +110,7 @@
             this.Controls.Add(this.btnEntrar);
             this.Name = "Form1";
             this.Text = "Tela de Login";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
             this.ResumeLayout(false);
             this.PerformLayout();
 

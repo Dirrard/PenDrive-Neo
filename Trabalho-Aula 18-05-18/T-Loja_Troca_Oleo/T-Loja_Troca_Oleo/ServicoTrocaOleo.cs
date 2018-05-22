@@ -6,10 +6,12 @@ using System.Threading.Tasks;
 
 namespace T_Loja_Troca_Oleo
 {
-   public class Usuario
+    public class ServicoTrocaOleo
     {
         public int Codigo { get; set; }
-        public string Email { get; set; }
-        public string Senha { get; set; }
+        public DateTime Data { get; set; }
+        public Cliente Cliente{ get; set; }
+        public Oleo Oleo { get; set; }
+        public int QtdeLitros { get; set; }
     }
 }
