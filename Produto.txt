@@ -1,0 +1,5 @@
+1	1	Salgadinho	2.3
+2	2	Garfo	3
+3	3	Calça	80
+4	4	Sabonete	1
+5	5	Micro-ondas	300

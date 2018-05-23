@@ -1,0 +1,5 @@
+1	Comida
+2	Utensilios
+3	Roupa
+4	Limpeza
+5	Eletrodomesticos
